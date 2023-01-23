@@ -16,6 +16,6 @@ print(favouriteAnimals[9])
 //iteration
 
 for i in 0...9 {
-    print(i)
+    print(favouriteAnimals [i])
 }
         
