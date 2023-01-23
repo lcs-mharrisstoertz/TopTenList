@@ -7,5 +7,8 @@
 
 import Foundation
 
-print("Hello, World!")
+let favouriteAnimals = ["Alpaca", "Zebra", "Flamingo", "Tiger", "Giraffe", "House Wren", "Racoon", "Skunk", "Chicken", "White-tailed Deer" ]
 
+print(favouriteAnimals[0])
+print(favouriteAnimals[4])
+print(favouriteAnimals[9])
