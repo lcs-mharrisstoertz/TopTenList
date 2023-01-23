@@ -12,3 +12,10 @@ let favouriteAnimals = ["Alpaca", "Zebra", "Flamingo", "Tiger", "Giraffe", "Hous
 print(favouriteAnimals[0])
 print(favouriteAnimals[4])
 print(favouriteAnimals[9])
+
+//iteration
+
+for i in 0...9 {
+    print(i)
+}
+        
